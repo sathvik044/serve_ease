@@ -69,7 +69,3 @@ assets/
 
 **License**
 Licensed under the MIT License — refer to the LICENSE file for details.
-
-Author : **Sathish Madanu**
-GitHub: @sathish0416
-Email: sathishmadanu0416@gmail.com
